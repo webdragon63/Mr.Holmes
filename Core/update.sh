@@ -63,3 +63,4 @@ function update {
     exit 1
 }
 check
+
