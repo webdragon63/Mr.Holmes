@@ -263,49 +263,25 @@ edit Language.json
 
 <br>
 
-# EXAMPLE:
 
-![Screenshot](Screenshot/Graph_Test.png)
-
-<br>
 
 # MAPS:
 **With this new version has been added the possibility to create Interactive Maps.**
 
 <br>
 
-# EXAMPLE:
 
-![Screenshot](Screenshot/Map_Test.png)
-
-<br>
 
 # DORKS:
 **With this new version it is possible to search Video/Sound/Images via Dorks (1) and to effectuate specific research adding date ex '1998/01/1' or date range ex '1998/01/01-2020/12/31' (2).**
 
 <br>
 
-# EXAMPLE (1):
 
-![Screenshot](Screenshot/Dorks.png)
 
-<br>
-
-# EXAMPLE (2):
-
-![Screenshot](Screenshot/Dorks2.png)
-
-<br>
 
 # PDF:
 **With this new version has been added the possibility to converte your Graphs in PDF.**
-
-<br>
-
-# EXAMPLE:
-<p align = "center">
-<img src="Screenshot/Dark_Pdf.png" height ="400px" width = "400px" border = "5px" style="border-color:white;">
-</p>
 
 <br>
 
@@ -328,40 +304,8 @@ edit Language.json
 
 <br>
 
-# :last_quarter_moon: DARK MODE:
-![Screenshot](Screenshot/Dark_Mode.png)
-
-<br>
-
-<p align = "center">
-<img src="Screenshot/Dark.jpg" height ="500px" width = "300px" border = "5px" style="border-color:white;">
-</p>
-
-<br>
-
-# :full_moon: LIGHT MODE:
-![Screenshot](Screenshot/Light_Mode.png)
-
-<br>
-
-<p align = "center">
-<img src="Screenshot/Light.jpg" height ="500px" width = "300px" border = "5px" style="border-color:gray;">
-</p>
 
 
-<br>
-
-# :last_quarter_moon: HIGH-CONTRAST MODE:
-![Screenshot](Screenshot/High-Contrast_Mode.png)
-
-<br>
-
-<p align = "center">
-<img src="Screenshot/High-Contrast.jpg" height ="490px" width = "300px" border = "5px" style="border-color:white;">
-</p>
-
-<hr>
-<br>
 
 
 ## <p align = center> STARGAZERS OVER TIME 
