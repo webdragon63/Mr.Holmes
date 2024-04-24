@@ -1,17 +1,3 @@
-<p align="center">
-  <img width="650px" height="100px" src="Icon/Banner.png">
-</p>
-
-<p align = "center">
-  <img src = "https://img.shields.io/github/stars/Lucksi/Mr.Holmes">
-  <img src = "https://img.shields.io/github/forks/Lucksi/Mr.Holmes">
-  <img src = "https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  <img src = "https://img.shields.io/github/license/Lucksi/Mr.Holmes">
-  <img src = "https://img.shields.io/github/repo-size/Lucksi/Mr.Holmes">
-  <img src= "https://img.shields.io/github/languages/count/Lucksi/Mr.Holmes">
-  <img src = "https://visitor-badge.laobi.icu/badge?page_id=Lucksi.Mr.Holmes">
-</p>
-
 # :mag: Mr.Holmes 
 
 **Mr.Holmes is a information gathering tool (OSINT). The main purpose is to gain information about domains,username and phone numbers with the help of public source avaiable on the internet also it use the google dorks attack for specific researchers. It also use proxies for make your requests completley anonymous and a WhoIS Api for getting more information about a domain.**
@@ -21,16 +7,6 @@
 **This Tool is Not 100% Accurate so it can fail somtimes. Also this tool is made for educational and research purposes only, i do not assume any kind of responsibility for any imprope use of this tool.**
 <br>
 
-#  SCREENSHOT
-![Screenshot](Screenshot/Screenshot.png)
-
-<br>
-
-<p align = "center">
-<img src = "Screenshot/Termux.png" height = "400px" width = "300px">
-</p>
-
-<br>
 
 # :heavy_check_mark: INSTALLATION LINUX/MAC:
 ```bash
@@ -296,14 +272,6 @@ edit Language.json
 **With this version it is Possible to Transfer your reports directly to Your Phone Via Qr-Code**
 
 <br>
-
-# FILE-TRANSFER PAGE:
-<p align = "center">
-<img src="Screenshot/File-Transfer.jpg" height ="500px" width = "300px" border = "5px" style="border-color:white;">
-</p>
-
-<br>
-
 
 
 
