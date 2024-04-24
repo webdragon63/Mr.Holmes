@@ -1,3 +1,17 @@
+<p align="center">
+  <img width="650px" height="100px" src="Icon/Banner.png">
+</p>
+
+<p align = "center">
+  <img src = "https://img.shields.io/github/stars/Lucksi/Mr.Holmes">
+  <img src = "https://img.shields.io/github/forks/Lucksi/Mr.Holmes">
+  <img src = "https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+  <img src = "https://img.shields.io/github/license/Lucksi/Mr.Holmes">
+  <img src = "https://img.shields.io/github/repo-size/Lucksi/Mr.Holmes">
+  <img src= "https://img.shields.io/github/languages/count/Lucksi/Mr.Holmes">
+  <img src = "https://visitor-badge.laobi.icu/badge?page_id=Lucksi.Mr.Holmes">
+</p>
+
 # :mag: Mr.Holmes 
 
 **Mr.Holmes is a information gathering tool (OSINT). The main purpose is to gain information about domains,username and phone numbers with the help of public source avaiable on the internet also it use the google dorks attack for specific researchers. It also use proxies for make your requests completley anonymous and a WhoIS Api for getting more information about a domain.**
@@ -72,10 +86,19 @@ proot -0 chmod +x install_Termux.sh
 <br>
 
 #  USAGE LINUX/MAC:
+    cd Mr.Holmes
     sudo python3 MrHolmes.py
     OR:
+    cd Mr.Holmes
     cd Launchers
     Execute Launcher.sh
+
+<br>
+    
+#  USAGE LINUX/MAC(Venv Enviroment):
+    cd Mr.Holmes
+    source .lib_venv/bin/activate
+    python3 MrHolmes.py
 
 <br>
 
